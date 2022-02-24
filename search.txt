@@ -1,0 +1,36 @@
+<!DOCTYPE html5>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+<head>
+<link href="http://fonts.googleapis.com/css?family=redressed" rel="stylesheet" type="text/css">
+</head>
+<style>
+.green-text{
+color: green;
+}
+
+  p, h2 {
+    font-family: 'redressed', italic, script;
+  }
+
+</style>
+<body>
+
+<h2 class="green-text"><a href="file:///C:/Users/ryang/Downloads/search.html#gsc.tab=0">The All Search</a></h2>
+
+<p>Your <a href="file:///C:/Users/ryang/Downloads/add%20page.html">add here</a></p>
+
+<div>
+<script async src="https://cse.google.com/cse.js?cx=7e8e0287a2d0aa671"></script>
+<div class="gcse-search"></div>
+</div>
+
+</body>
+
+<main>
+
+<p>Your <a href="file:///C:/Users/ryang/Downloads/add%20page.html">add here</a></p>
+
+</main>
+</html>
